@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Tak-Irie/learn-angular-firebase/issues"
   },
-  "homepage": "https://github.com/Tak-Irie/learn-angular-firebase#readme"
+  "homepage": "https://github.com/Tak-Irie/learn-angular-firebase#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "firebase": "^9.8.4"
+  }
 }
